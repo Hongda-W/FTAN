@@ -1,0 +1,17 @@
+# GMT common arguments shelf
+-Ba300f100::/::wESn
+-JX4.1i/1.i
+-R0/10/0/10
+-X1.7
+-x0.
+-Y5.
+-y8.8
+-jX4.1i/1.i
+EOF
+8
+-jX4.1i/1.i
+EOF
+
+-y8.8
+-jX4.1il/3.1i
+EOF

@@ -1,0 +1,10 @@
+# GMT 5 Session common arguments shelf
+BEGIN GMT 5.3.1
+B	a3f3:period (sec):/a1.0f0.5:group vel (km/s)::.:WSen
+J	X
+JX	X4.1il/3.1i
+R	3./40./0.2/4.5
+X	2.
+Y	2.
+L	4
+END
